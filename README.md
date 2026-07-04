@@ -67,16 +67,9 @@
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=subhamshaw0107&theme=tokyonight&no-frame=true&column=4)
-![Uploading image.png…]()
-
-
-
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="700" alt="GitHub Achievements"/>
-</p>
----
-
 https://github.com/users/subhamshaw0107/achievements/quickdraw
+https://github.com/users/subhamshaw0107/achievements/yolo
+
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=subhamshaw0107&theme=tokyo-night)
