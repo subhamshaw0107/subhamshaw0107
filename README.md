@@ -67,7 +67,9 @@
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=subhamshaw0107&theme=tokyonight&no-frame=true&column=4)
+
 https://github.com/users/subhamshaw0107/achievements/quickdraw
+
 https://github.com/users/subhamshaw0107/achievements/yolo
 
 # 📈 Contribution Graph
