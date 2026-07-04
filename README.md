@@ -68,6 +68,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=subhamshaw0107&theme=tokyonight&no-frame=true&column=4)
 
+
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" width="700" alt="GitHub Achievements"/>
+</p>
 ---
 
 # 📈 Contribution Graph
