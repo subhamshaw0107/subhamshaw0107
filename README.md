@@ -80,20 +80,7 @@
 
 ![Snake](https://raw.githubusercontent.com/subhamshaw0107/subhamshaw0107/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <a href="https://github.com/subhamshaw0107">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Open+Source+Contributor;Hackathon+Builder;Always+Learning+Something+New" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhamshaw0107&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/subhamshaw0107?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/subhamshaw0107?affiliations=OWNER&style=flat" />
-</p>
-
-
----
 
 # 🌐 Connect with Me
 
