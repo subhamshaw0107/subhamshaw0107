@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋,** I'm Subham Shaw**__</h1>
+<h1 align="center">Hi 👋, I'm Subham Shaw__</h1>
 
 <p align="center">
   <a href="https://github.com/subhamshaw0107">
